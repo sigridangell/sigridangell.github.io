@@ -1,0 +1,14 @@
+{
+  "recipes": [
+    {
+      "name": "Laks m/ couscous",
+      "categories": ["Fish", "Everyday", "Quick"],
+      "ingredients": ["Laks", "Couscous", "Agurk", "Tomat", "Rødløk"]
+    },
+    {
+      "name": "Fiskekaker m/ tomatsaus",
+      "categories": ["Fish", "Everyday", "Quick"],
+      "ingredients": ["Fiskekaker", "Pasta", "Tomatsaus"]
+    }
+  ]
+}
